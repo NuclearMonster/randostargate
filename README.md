@@ -7,7 +7,7 @@ The bot is on mastodon: https://mastodon.social/@randostargate
 where it uses https://cheapbotstootsweet.com/ to operate
 
 ## bluesky
-The bot is now on blue sky. https://bsky.app/profile/randostargate.bsky.social
+The bot is also on blue sky. https://bsky.app/profile/randostargate.bsky.social
 where it uses https://bluebotsdonequick.com to operate
 
 ## thank you!!
