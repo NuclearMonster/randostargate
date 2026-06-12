@@ -3,9 +3,8 @@
 a silly bot written in tracery JSON that comes up with minimal star gate episode listing ideas based on smashing a bunch of words together, no LLM garbage.
 
 ## mastodon
-The bot is also on mastodon: https://mastodon.social/@randostargate 
+The bot is on mastodon: https://mastodon.social/@randostargate 
 where it uses https://cheapbotstootsweet.com/ to operate
-(december 2024: RIP to botsin.space)
 
 ## bluesky
 The bot is now on blue sky. https://bsky.app/profile/randostargate.bsky.social
